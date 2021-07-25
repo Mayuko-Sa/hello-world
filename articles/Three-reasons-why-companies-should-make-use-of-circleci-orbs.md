@@ -18,7 +18,7 @@ Orbs は、異なるプロジェクト間で共通して行っている処理を
   セキュリティの観点などから、自分の組織に限定した Orbs を利用したい場合は、組織内で作成した Orbs をプライベート Orbs として使用することもできます。  
 
 1. サードパーティ製のツールとの連携が容易  
-  たとえば [Slack Orb](https://circleci.com/developer/ja/orbs/orb/circleci/slack)を利用し、「ビルドが失敗したときのみ Slack に通知する」といったよくある連携を容易に実現できます。このような、サードパーティ製ツールとの連携を実現する Orbs が、[Orbs レジストリ](https://circleci.com/developer/ja/orbs)に多数公開されています。
+  たとえば [Slack Orb](https://circleci.com/developer/ja/orbs/orb/circleci/slack) を利用し、「ビルドが失敗したときのみ Slack に通知する」といったよくある連携を容易に実現できます。このような、サードパーティ製ツールとの連携を実現する Orbs が、[Orbs レジストリ](https://circleci.com/developer/ja/orbs)に多数公開されています。
 
 ## 注意点
 
